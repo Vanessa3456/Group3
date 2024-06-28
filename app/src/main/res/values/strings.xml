@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProductViews</string>
+    <string name="title_activity_sell_buy">SellBuy</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="ADDPRODUCT">ADD PRODUCT</string>
+    <string name="EDITPRODUCT">EDIT PRODUCT</string>
+    <string name="VIEWPRODUCT">VIEW PRODUCT</string>
+    <string name="DELETEPRODUCT">DELETE PRODUCT</string>
+
+
+    <string name="title_activity_add_view">AddView</string>
+</resources>
